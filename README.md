@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ovaqvado
-- 👀 I’m interested in Frontend-developer
+- 👀 I’m  Frontend-developer
 - 🌱 Favorite Language Js & Ts
 
