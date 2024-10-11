@@ -1,29 +1,4 @@
-<style>
-  .image-link {
-      text-decoration: none;
-      outline: none;
-      display: inline-block; 
-      transition: box-shadow 0.3s ease; 
-  }
 
-  .image-link img {
-      display: block; 
-  }
-
-  .image-link:hover {
-    box-shadow: 4px 4px 31px 17px rgba(162, 22, 244, 0.2);
-  }
-
-  .icon-container a {
-        display: inline-block;
-        transition: box-shadow 0.7s; 
-    }
-
-	 .icon-container a:hover {
-        box-shadow: 2px 35px 25px 2px rgba(22, 57, 244, 0.2); 
-    }
-
-</style>
 
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5pd3Q4ejdxZWxhNDd2cHE2dTVib21pdDFxbGZvNTdoOThvNWZweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp"  />
@@ -32,23 +7,12 @@
 ###
 
 <div align="center">
+   <a href="https://web.telegram.org/k/#@ovaqvado" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
- <a href="https://web.telegram.org/k/#@ovaqvado" style="text-decoration: none; outline: none;">
-    <img 
-        src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" 
-        height="25" 
-        alt="telegram logo" 
-        style="pointer-events: none; transition: none;" 
-    />
-</a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ovaqvado.ovaqvado&"  />
 </div>
 
 ###
